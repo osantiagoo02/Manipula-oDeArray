@@ -10,4 +10,3 @@ E, por fim, o método `display` é bem útil para ver todos os elementos do arra
 
 No `main`, que é onde o programa começa, eu fiz uns testes básicos. Criei um `ArrayManipulator`, adicionei alguns números, removi um deles, e até procurei por um número específico para ver se estava no array.
 
-É um projeto bem simples, mas pode ser útil para entender como manipular arrays em Java. Espero que gostem e qualquer dúvida, estou por aqui!
